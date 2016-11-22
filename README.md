@@ -10,7 +10,7 @@ Charla sobre la salida laboral de sistemas hoy en día
 
 ### Aprender a desarrollar en diferentes lenguajes y frameworks
 
-1. Con plataformas de cursos
+#### Con plataformas de cursos
 
 * https://www.acamica.com/
 * https://www.codeschool.com/
@@ -22,13 +22,13 @@ Charla sobre la salida laboral de sistemas hoy en día
 * https://www.youtube.com/ (No olviden que YouTube tiene muchísimos cursos y en su mayoría son gratis)
 * (hay muchos más opciones)
 
-2. A través de las dudas
+#### A través de las dudas
 
 * https://www.google.com
 * http://stackoverflow.com/
 * (hay muchos más opciones)
 
-3. Con la comunidad
+#### Con la comunidad
 
   Mucha veces conocer a alguien que sepa en persona es mucho mejor para consultarle o compartir un conocimiento que hacerlo a través de la computadora.
 * https://www.meetup.com/es-ES/ acá van a encontrar grupos sobre distintos temas que pueden llegar a interesarles
@@ -38,17 +38,17 @@ Charla sobre la salida laboral de sistemas hoy en día
 
 ### Conseguir trabajo
 
-1. Redes Sociales 
+#### Redes Sociales 
 
 * https://www.linkedin.com/ (es muy importante tener un perfil en Linkedin)
 * (hay muchos más pero sigue siendo la principal)
 
-2. En eventos
+#### En eventos
 
 * http://www.jornadatrabajoit.com.ar/ (Ya pasó esta jornada pero hay muchos eventos y este es anual)
 * (hay muchos más)
 
-3. Freelance
+#### Freelance
 
 * https://www.freelancer.com/
 * https://www.toptal.com/
@@ -58,7 +58,7 @@ Charla sobre la salida laboral de sistemas hoy en día
 * http://www.simplyhired.com/ 
 * (hay muchos más)
 
-4. Working holiday
+#### Working holiday
 
 * https://www.immigration.govt.nz/new-zealand-visas/options/work
 * https://www.border.gov.au/Trav/Visa-1/417-
