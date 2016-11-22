@@ -1,14 +1,14 @@
 # charla-salida-laboral-sistemas
 Charla sobre la salida laboral de sistemas hoy en día
 
-# Recursos de los que estuve hablando en la charla
+## Recursos de los que estuve hablando en la charla
 
-## Aprender inglés (Más que importante, es un requisito básico)
+### Aprender inglés (Más que importante, es un requisito básico)
 
 https://www.duolingo.com/ (es excelente y es gratis)
 (hay muchos más)
 
-## Aprender a desarrollar en diferentes lenguajes y frameworks
+### Aprender a desarrollar en diferentes lenguajes y frameworks
 
 - Con plataformas de cursos
 https://www.acamica.com/
@@ -32,7 +32,7 @@ Obviamente aprovechen al colegio… No se olviden que siempre pueden pregúntenl
 (hay muchos más opciones)
 
 
-## Conseguir trabajo
+### Conseguir trabajo
 
 - Redes Sociales 
 https://www.linkedin.com/ (es muy importante tener un perfil en Linkedin)
